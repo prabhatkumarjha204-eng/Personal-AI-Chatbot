@@ -1,4 +1,4 @@
-#Personal-AI-Chatbot 🤖
+#Personal-AI-Chatbot 🤖  
 ​A lightweight, interactive Command-Line Interface (CLI) chatbot built using Python. This project demonstrates the fundamentals of rule-based AI, keyword-matching logic, and persistent user interaction.  
 ​##🚀 Overview  
 ​* **The Personal-AI-Chatbot is designed to provide quick information and interactive responses based on a predefined knowledge base. It uses a dictionary-based system to store information and retrieves it dynamically based on user input.  
