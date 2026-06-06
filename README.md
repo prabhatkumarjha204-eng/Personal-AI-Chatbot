@@ -13,11 +13,11 @@
 ​* **Control Flow (while loops, if-elif logic)  
 ​* **String Processing (.lower() normalization)  
 ​* **User Input/Output handling  
-​##📋 How to Run  
+​##📋 How to Run 
 1. Ensure you have Python installed on your system.  
 2. Clone this repository or download the chatbot.py file.  
 3. Open your terminal or command prompt.  
-4. Run the script using the following command: python chatbot.py
+4. Run the script using the following command: python chatbot.py  
 ##📈 Learning Outcomes  
 ​* **Through this project, I gained hands-on experience in:  
 ​* **Developing basic automation scripts.  
