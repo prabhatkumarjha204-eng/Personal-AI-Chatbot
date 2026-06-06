@@ -8,15 +8,15 @@
 
 ​##🛠 Features  
 
-​* **Dictionary-Based Memory: Uses a structured dictionary to map user keywords to specific, informative responses.  
-​* **Keyword Matching: Implements flexible keyword search logic, allowing the bot to understand queries even when phrased differently.  
-​* **Persistent Interaction: Built with a continuous while loop that allows for an ongoing conversation until the user decides to exit.  
-​* **User-Friendly: Personalized greeting feature that welcomes users and provides clear instructions on how to interact with the bot.  
+​* **Dictionary-Based Memory:-  Uses a structured dictionary to map user keywords to specific, informative responses.  
+​* **Keyword Matching:-  Implements flexible keyword search logic, allowing the bot to understand queries even when phrased differently.  
+​* **Persistent Interaction:-  Built with a continuous while loop that allows for an ongoing conversation until the user decides to exit.  
+​* **User-Friendly:-  Personalized greeting feature that welcomes users and provides clear instructions on how to interact with the bot.  
 
 ​##💻 Tech Stack
 
-​* **Language: Python  
-​* **Concepts Used: * Data Structures (Dictionaries)  
+​* **Language:-  Python  
+​* **Concepts Used:-  Data Structures (Dictionaries)  
 ​* **Control Flow (while loops, if-elif logic)  
 ​* **String Processing (.lower() normalization)  
 ​* **User Input/Output handling  
