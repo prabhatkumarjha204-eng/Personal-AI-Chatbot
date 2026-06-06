@@ -29,7 +29,7 @@ The Personal-AI-Chatbot is designed to provide quick information and interactive
 
 📈 Learning Outcomes  
 
-​*  *Through this project, I gained hands-on experience in:  
+​* *Through this project, I gained hands-on experience in:  
 ​* **Developing basic automation scripts.  
 ​* **Structuring data efficiently using Python dictionaries.  
 ​* **Handling potential syntax and logic errors in a real-world scenario.  
